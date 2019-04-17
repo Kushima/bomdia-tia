@@ -1,7 +1,7 @@
 # Bom dia da Tia!
 Gerador de imagens de bom dia de qualidade, como as das suas tias!
 
-## Como uar (HowTo)
+## Como usar (HowTo)
 Siga como no arquivo de exemplo `exemplo.py`:
 
 ```python
