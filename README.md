@@ -32,3 +32,9 @@ Caso queira adicionar novos elementos, para a versão 1.0, siga as os requisitos
 ## Instalação
 
 Este projeto foi escrito em python 3. Instale as dependencias necessárias.
+
+### Linux
+```bash
+sudo apt install python3-pip
+pip3 install Pillow
+```
